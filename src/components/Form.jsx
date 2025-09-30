@@ -1,4 +1,4 @@
-export default function Form({ movie }) {
+export default function Form({props}) {
   return (
     <div>
       <form>
